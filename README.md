@@ -48,10 +48,6 @@ S3 Bucket (Versioning + Lifecycle)
 
 ## Result & Learning
 
-This project successfully demonstrates a basic cloud backup workflow.
-Through this project, I gained hands-on experience with AWS IAM, EC2, S3, and cloud security best practices.
-It also improved my understanding of cost optimization in cloud environments.
-
 Project ini berhasil mendemonstrasikan dasar alur kerja cloud backup.
 Dengan project ini, saya bisa merasakan pengalaman dengan AWS IAM, EC2, S3 dan cloud security best practice.
 Ini juga improved pengetahuan saya tentang cost optimization di cloud environments.
